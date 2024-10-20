@@ -9,7 +9,9 @@ or "aba".
 Instructions: Avoid using any string handling libraries. Implement a solution that checks all
 substrings
 manually.
+
 JAVA Program:
+
 public class Main
 {
 public static boolean isPal(String s,int start,int end)
@@ -53,14 +55,17 @@ System.out.println(res);
 }
 }
 }
+
 Input -1:
 babad
 output -1:
 bab
+
 Input -2:
 cbbd
 Output -2:
 bb
+
 Input -3:
 level
 Output -3:
