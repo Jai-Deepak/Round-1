@@ -1,5 +1,6 @@
 HAT Interview - First Round Program
 
+
 HATFD1005
 Longest Palindromic Substring
 Write a program to find the longest palindromic substring in a given string without using any
@@ -9,6 +10,7 @@ or "aba".
 Instructions: Avoid using any string handling libraries. Implement a solution that checks all
 substrings
 manually.
+
 
 JAVA Program:
 
