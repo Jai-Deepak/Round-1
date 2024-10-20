@@ -1,6 +1,5 @@
 HAT Interview - First Round Program
 
-
 HATFD1005
 Longest Palindromic Substring
 Write a program to find the longest palindromic substring in a given string without using any
